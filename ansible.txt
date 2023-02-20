@@ -22,3 +22,4 @@ ssh-copy-id ansible@private-ip of node
 
 execute above command 4 times in the ansible main node
 4 times you need to change ip
+adding a new line
